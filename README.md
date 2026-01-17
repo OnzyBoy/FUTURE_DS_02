@@ -23,7 +23,7 @@ The dashboard is designed to help marketing and business teams:
 ---
 
 ## 📁 Dataset Information
-- - **Source:** Kaggle - [Product Adversing Data](https://www.kaggle.com/datasets/singhnavjot2062001/product-advertising-data)
+- **Source:** Kaggle - [Product Adversing Data](https://www.kaggle.com/datasets/singhnavjot2062001/product-advertising-data)
 - **Format:** CSV  
 
 ### Dataset Columns
